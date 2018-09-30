@@ -53,6 +53,12 @@ IN:
     name: Aasra
     web: http://www.aasra.info
   display_country: India
+NL:
+  contacts:
+  - phone: 0900-0113
+    name: 113 Zelfmoordpreventie
+    web: https://www.113.nl/ik-denk-aan-zelfmoord/crisislijn
+  display_country: The Netherlands
 NZ:
   contacts:
   - phone: 0800 543 354
